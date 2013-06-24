@@ -16,7 +16,7 @@ code in this project to expidite its creation and I completed the site within on
 Most of my other work has been for BYU Chinese Flagship and I do not have the right to upload the code to those sites. However, here are the links to those sites.
 They are being managed by another party now and may reflect work done by other individuals.
 
-chineseflagship.byu.edu/cfc-beta -- beta drupal site that I customized from a template. Most of the front end design is my own.
-overseaschineseflagship.org -- other than content updates this site is completely my work.
+http://chineseflagship.byu.edu/cfc-beta -- beta drupal site that I customized from a template. Most of the front end design is my own.
+http://overseaschineseflagship.org -- other than content updates this site is completely my work.
 http://utah.clt7-12.org/ -- I created this site as a resource site for Utah Chinese Teachers. Unfortunately I was unable to complete the website before I had to quit the job (it was a student position and I was graduating).
 
