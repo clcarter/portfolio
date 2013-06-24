@@ -10,7 +10,7 @@ changes instantaniously without requiring the user to manually save info, though
 saving in a few requests, small bits of data are saved in almost continuous calls to the server.
 
 The plsc folder is a website I designed for use by myself and my Political Science Group as a collaboration of notes and Stata commands. Though it was under-
-utilized, the project was a great learning tool for me as I worked with an XML document to provide formatting for the Sata Commands. I used a lot of prebuilt
+utilized, the project was a great learning tool for me as I worked with an XML document to provide formatting for the Stata Commands. I used a lot of prebuilt
 code in this project to expidite its creation and I completed the site within one weekend.
 
 Most of my other work has been for BYU Chinese Flagship and I do not have the right to upload the code to those sites. However, here are the links to those sites.
