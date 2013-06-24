@@ -18,4 +18,5 @@ They are being managed by another party now and may reflect work done by other i
 
 chineseflagship.byu.edu/cfc-beta -- beta drupal site that I customized from a template. Most of the front end design is my own.
 overseaschineseflagship.org -- other than content updates this site is completely my work.
+http://utah.clt7-12.org/ -- I created this site as a resource site for Utah Chinese Teachers. Unfortunately I was unable to complete the website before I had to quit the job (it was a student position and I was graduating).
 
